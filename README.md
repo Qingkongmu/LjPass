@@ -5,5 +5,8 @@ The repository consists of the raw panoramic image data we collected for the stu
 Currently uploading some demo tags for the time being, the full upload will follow!
 !![Example.png](Example.png)
 
+# Reference：
+Li J, Zhang X, Li L, et al. An estimation method for multidimensional urban street walkability based on panoramic semantic segmentation and domain adaptation[J]. Engineering Applications of Artificial Intelligence, 2024, 136: 108905.
+
 # Dataset
 https://drive.google.com/file/d/14F0FOEfumolwlMWDPMnsWIiu9OSTYnZ0/view?usp=sharing
